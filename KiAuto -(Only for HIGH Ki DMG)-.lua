@@ -11,7 +11,7 @@ AntiLeech = false
 Fov = 120
 WaitTimer = .5
 RejoinTimer = 120
-TeamDamage = false
+TeamDamage = true
 LateTransformation = true
 
 local Broly = 2050207304
