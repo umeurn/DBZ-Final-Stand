@@ -1,18 +1,16 @@
 Moves = {
     "Blaster Meteor",
-    "Sudden Storm",
     "Crusher Ball",
-    "Chain Destructo Disk",
-    "Genocide Shell",
-    "Divine Lasso",
-    "Death Saucer"
+    "Chain Destructo Disk"
 }
 AntiLeech = false
 Fov = 120
-WaitTimer = .5
-RejoinTimer = 120
-TeamDamage = true
+WaitTimer = 0
+RejoinTimer = 300
+TeamDamage = false
 LateTransformation = true
+
+-- TeamDamage, Uni Godmode and some Ki Tracker moves are broken/patched due to "Workspace.RejectCharacterDeletions".
 
 local Broly = 2050207304
 local Queue = 3565304751
