@@ -1,8 +1,0 @@
-game.RunService.RenderStepped:connect(function()
-game:GetService("Players").LocalPlayer.PlayerGui.HUD.Bottom.Stats.Visible = true
-if game.Workspace.FriendlyNPCs:FindFirstChild("Whis") then
-game.Players.LocalPlayer.PlayerGui.HUD.Bottom.Stats.Labvel.TextLabel.Text = "Stats"
-else
-game.Players.LocalPlayer.PlayerGui.HUD.Bottom.Stats.Labvel.TextLabel.Text = "Stats"
-end
-end)
