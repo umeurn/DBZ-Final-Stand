@@ -1,2 +1,2 @@
 # DBZ-Final-Stand
-Metric™ Scripts
+Public Scripts
