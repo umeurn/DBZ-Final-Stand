@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheUnknownScripter/Roblox/main/Unknown%20Hub/Unknown%20Hub.lua"))()
