@@ -1,7 +1,7 @@
 getgenv().Settings = {
 	Slots = {
-		Namekian = "Slot3",
-		PointSlot = "Slot2",
+		Namekian = "Slot2",
+		PointSlot = "Slot1",
 	},
 	-----------------------Norm Setting's
 	MaxPoints = 17500, --math.huge is basiclly inf so change it to what you want
